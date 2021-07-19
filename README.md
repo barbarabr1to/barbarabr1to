@@ -3,7 +3,8 @@
 <!--![cube](/cube.gif)-->
 <!--<a href="url"><img src="cube.gif" align="right" height="100" width="100" ></a>-->
 
-<div style="display: inline_block">  
+<div style="display: inline_block"> 
+  ## TECNOLOGIAS E FERRAMENTAS 💻
   <strong><h3> TECNOLOGIAS E FERRAMENTAS 💻</h3></strong> 
   <img height="30em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -13,6 +14,7 @@
 <br>
 
 <div style="display: inline_block">  
+  ### CONTATOS 📱
   <strong><h3>CONTATOS 📱</h3></strong>  
   <a href="https://www.linkedin.com/in/barbarabritosz/"> <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/barbarabritosz/"> <img height="30" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-thebadge&logo=messenger&logoColor=white"></a> 
