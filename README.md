@@ -1,4 +1,4 @@
-<img src="cube.gif" width="120px" align="right" alt="Computador iuriCode">
+<img src="cube.gif" width="90px" align="right" alt="Computador iuriCode">
 
 # Bem vindo! 📌 
 
@@ -16,11 +16,13 @@
 </div>
 
 <br>
- 
+
+<p>
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBrito&show_icons=true&theme=dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraBrito&layout=compact&theme=dark"/>
 </div>
+</p>
 
 <br>
 
