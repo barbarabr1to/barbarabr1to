@@ -11,7 +11,6 @@
 </div>
 
 <br>
-###
 
 <div style="display: inline_block">  
   <strong><h3>CONTATOS 📱</h3></strong>  
@@ -21,7 +20,6 @@
 </div>
  
 <br>
-###
  
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBrito&show_icons=true&theme=write"/>
