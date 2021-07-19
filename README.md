@@ -1,6 +1,6 @@
 # Bem vindo! 📌 
 
-<img src="cube.gif" min-width="80px" max-width="80px" align="right" alt="Computador iuriCode">
+<img src="cube.gif" min-width="80px" max-width="80px" width="200px" align="right" alt="Computador iuriCode">
 
 <div style="display: inline_block"> 
   <strong><h3> TECNOLOGIAS E FERRAMENTAS 💻</h3></strong> 
