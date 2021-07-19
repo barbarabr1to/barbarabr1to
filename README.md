@@ -10,6 +10,8 @@
   <img height="30em" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
 </div>
 
+<br>
+  
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBrito&show_icons=true&theme=tokyonight"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraBrito&layout=compact&theme=tokyonight"/>
