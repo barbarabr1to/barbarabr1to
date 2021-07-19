@@ -1,6 +1,6 @@
 # Bem vindo! 😀
 
-<img src="cube.gif" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
+<img src="cube.gif" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
 <!--![cube](/cube.gif)-->
 <!--<a href="url"><img src="cube.gif" align="right" height="100" width="100" ></a>-->
@@ -13,15 +13,17 @@
 </div>
 
 <br>
-  
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBrito&show_icons=true&theme=tokyonight"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraBrito&layout=compact&theme=tokyonight"/>
-</div>
 
 <div style="display: inline_block">  
   <strong><h5>CONTATOS 📱</h5></strong>  
   <a href="https://www.linkedin.com/in/barbarabritosz/"> <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/barbarabritosz/"> <img height="20" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-thebadge&logo=messenger&logoColor=white"></a> 
   <a href = "mailto: barbarabritosz@hotmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+ 
+<br>
+ 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBrito&show_icons=true&theme=tokyonight"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraBrito&layout=compact&theme=tokyonight"/>
 </div>
