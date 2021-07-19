@@ -5,7 +5,7 @@
 
 <div style="display: inline_block">  
 
-<strong><h3>📚 TECNOLOGIAS</h3></strong> 
+<strong><h5>📚 TECNOLOGIAS</h5></strong> 
   <img height="20em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img height="20em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img height="20em" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
