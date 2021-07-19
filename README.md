@@ -1,4 +1,4 @@
-<img src="cube.gif" min-width="80px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+<img src="cube.gif" width="200px" align="right" alt="Computador iuriCode">
 
 # Bem vindo! 📌 
 
