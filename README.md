@@ -21,8 +21,8 @@
 
 <p>
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBrito&show_icons=true&theme=synthwave"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraBrito&layout=compact&theme=synthwave"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBrito&show_icons=true&theme=synthwave"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraBrito&layout=compact&theme=synthwave"/>
 </div>
 </p>
 
@@ -30,7 +30,7 @@
 
 <div style="display: inline_block">  
   <b><h3>CONTATOS 📱</h3></b>  
-  <a href="https://www.linkedin.com/in/barbarabritosz/"> <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/barbarabritosz/"> <img height="30" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-thebadge&logo=messenger&logoColor=white"></a> 
-  <a href = "mailto: barbarabritosz@hotmail.com"> <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/barbarabritosz/"> <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/barbarabritosz/"> <img height="20" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-thebadge&logo=messenger&logoColor=white"></a> 
+  <a href = "mailto: barbarabritosz@hotmail.com"> <img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
