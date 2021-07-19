@@ -1,5 +1,7 @@
 # Bem vindo! 😀
 
+<img src="cube.gif" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
+
 <!--![cube](/cube.gif)-->
 <!--<a href="url"><img src="cube.gif" align="right" height="100" width="100" ></a>-->
 
