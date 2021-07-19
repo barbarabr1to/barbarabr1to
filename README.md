@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+cube.gif
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraBrito&show_icons=true&theme=radical)
 
