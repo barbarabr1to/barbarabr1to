@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![cube](/cube.gif)
-<a href="url"><img src="cube.gif" align="left" height="48" width="48" ></a>
+<!--![cube](/cube.gif)-->
+<a href="url"><img src="cube.gif" align="left" height="100" width="100" ></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraBrito&show_icons=true&theme=radical)
 
