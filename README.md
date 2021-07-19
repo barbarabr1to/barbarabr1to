@@ -21,5 +21,5 @@
   <strong><h5>CONTATOS 📱</h5></strong>  
   <a href="https://www.linkedin.com/in/barbarabritosz/"> <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/barbarabritosz/"> <img height="20" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-     the-badge&logo=messenger&logoColor=white"></a> 
-  <a href = "mailto: barbarabritosz@hotmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-           badge&logo=gmail&logoColor=white">
+  <a href = "mailto: barbarabritosz@hotmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-           badge&logo=gmail&logoColor=white"></a>
 </div>
