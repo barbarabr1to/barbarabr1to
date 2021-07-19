@@ -3,7 +3,6 @@
 <!--![cube](/cube.gif)-->
 <!--<a href="url"><img src="cube.gif" align="right" height="100" width="100" ></a>-->
 
-## TECNOLOGIAS E FERRAMENTAS 💻
 <div style="display: inline_block"> 
   <strong><h3> TECNOLOGIAS E FERRAMENTAS 💻</h3></strong> 
   <img height="30em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -12,10 +11,9 @@
 </div>
 
 <br>
-
-### CONTATOS 📱
+### 
 <div style="display: inline_block">  
-  <strong><h3>CONTATOS 📱</h3></strong>  
+  <b><h3>CONTATOS 📱</h3></b>  
   <a href="https://www.linkedin.com/in/barbarabritosz/"> <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/barbarabritosz/"> <img height="30" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-thebadge&logo=messenger&logoColor=white"></a> 
   <a href = "mailto: barbarabritosz@hotmail.com"> <img height="30" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
