@@ -13,14 +13,13 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraBrito&show_icons=true&theme=tokyonight"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraBrito&layout=compact&theme=tokyonight"/>
-  ![Snake animation](https://github.com/davimateus1/davimateus1/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div style="display: inline_block">  
-  <p>
   <strong><h5>CONTATOS 📱</h5></strong>  
-  </p>  
   <a href="https://www.linkedin.com/in/barbarabritosz/"> <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-   badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/barbarabritosz/"> <img height="20" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-     the-badge&logo=messenger&logoColor=white"></a> 
   <a href = "mailto: barbarabritosz@hotmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-           badge&logo=gmail&logoColor=white">
 </div>
+
+![Snake animation](https://github.com/davimateus1/davimateus1/blob/output/github-contribution-grid-snake.svg)
