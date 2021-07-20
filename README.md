@@ -19,7 +19,6 @@
 
 <div>
   <p>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=barbarabr1to&show_icons=true&theme=write"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarabr1to&layout=compact&theme=write"/>
   </p>
 </div>
