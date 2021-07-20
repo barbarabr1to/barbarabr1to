@@ -17,6 +17,8 @@
   </p>
 </div>
 
+<br>
+
 <div>
   <p>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarabr1to&layout=compact&theme=write"/>
