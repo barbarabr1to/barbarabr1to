@@ -1,6 +1,6 @@
 <img src="cube.gif" width="70px" align="right" alt="Computador iuriCode">
 
-# Bem vindo! 📌 
+# Bem vindo(a)! 📌 
 
 <div style="display: inline_block"> 
   <p>
