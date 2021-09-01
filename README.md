@@ -2,20 +2,6 @@
 
 # Bem vindo(a)! 📌 
 
-<div style="display: inline_block"> 
-  <p>
-    <b><h3>💻 TECNOLOGIAS E FERRAMENTAS</h3></b> 
-    <img height="20em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img height="20em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
-    <img height="20em" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>    
-    <img height="20em" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-    <img height="20em" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img height="20em" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-  </p>
-</div>
-
-<br>
-
 <div>
   <p>
     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarabr1to&layout=compact&theme=write"/>
