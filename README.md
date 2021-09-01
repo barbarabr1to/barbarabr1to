@@ -1,4 +1,4 @@
-<img src="cube.gif" width="70px" align="right" alt="Computador iuriCode">
+<img src="cube.gif" width="100px" align="right" alt="Computador iuriCode">
 
 <div>
   <p>
