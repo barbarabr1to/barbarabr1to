@@ -1,7 +1,5 @@
 <img src="cube.gif" width="70px" align="right" alt="Computador iuriCode">
 
-# Olá :wave:
-
 <div>
   <p>
     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarabr1to&layout=compact&theme=write"/>
