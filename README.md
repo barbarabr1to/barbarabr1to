@@ -1,7 +1,6 @@
-<img src="cube.gif" width="70px" align="right" alt="Computador iuriCode">
-
 <div>
   <p>
+    <img src="cube.gif" width="70px" align="right" alt="Computador iuriCode">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarabr1to&layout=compact&theme=write"/>
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=barbarabr1to&layout=compact&theme=write"/>
   </p>
