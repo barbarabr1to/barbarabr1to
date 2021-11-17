@@ -1,7 +1,6 @@
 <div>
   <p>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarabr1to&layout=compact&theme=write"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=barbarabr1to&layout=compact&theme=write"/>
   </p>
 </div>
 
